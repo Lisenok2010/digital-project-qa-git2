@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CatTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-27T18:32:41" hostname="LAPTOP-O5HHCFB9" time="0.192">
+  <properties/>
+  <testcase name="shouldGetAge()" classname="CatTest" time="0.101"/>
+  <testcase name="shouldMeow()" classname="CatTest" time="0.015"/>
+  <testcase name="shouldGetName()" classname="CatTest" time="0.025"/>
+  <testcase name="shouldSetName()" classname="CatTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
